@@ -1,0 +1,14 @@
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\bin\Debug\net8.0\Kampanya Gönderme Programı.exe
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\bin\Debug\net8.0\Kampanya Gönderme Programı.deps.json
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\bin\Debug\net8.0\Kampanya Gönderme Programı.runtimeconfig.json
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\bin\Debug\net8.0\Kampanya Gönderme Programı.dll
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\bin\Debug\net8.0\Kampanya Gönderme Programı.pdb
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\Kampanya Gönderme Programı.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\Kampanya Gönderme Programı.AssemblyInfoInputs.cache
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\Kampanya Gönderme Programı.AssemblyInfo.cs
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\Kampanya Gönderme Programı.csproj.CoreCompileInputs.cache
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\Kampanya Gönderme Programı.dll
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\refint\Kampanya Gönderme Programı.dll
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\Kampanya Gönderme Programı.pdb
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\Kampanya Gönderme Programı.genruntimeconfig.cache
+D:\C#OrnekUygulama\C#OrnekUygulama\Kampanya Gönderme Programı\Kampanya Gönderme Programı\obj\Debug\net8.0\ref\Kampanya Gönderme Programı.dll
